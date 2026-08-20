@@ -102,7 +102,7 @@
 <text x="842" y="177" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#94a3b8">years experience</text>
 <line x1="842" y1="193" x2="1115" y2="193" stroke="#fff" stroke-opacity=".12"/>
 
-<text x="842" y="235" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" fill="#fff">AWS + Azure</text>
+<text x="842" y="235" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" fill="#fff">AWS + Azure + GCP</text>
 <text x="842" y="255" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#94a3b8">cloud platforms</text>
 <line x1="842" y1="271" x2="1115" y2="271" stroke="#fff" stroke-opacity=".12"/>
 
